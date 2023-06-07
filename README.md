@@ -30,5 +30,8 @@ seaborn==0.12.0
 and to run dashboard use command:
 ```streamlit run dashboard.py```
 
+## URL for Cloud Streamlit
+you can access the dashbord in this link below: ```https://technisekai-e-commerce-data-analysis-dashboard-uk06et.streamlit.app/```
+
 ## Screenshot Cloud Streamlit
 ![image](https://github.com/technisekai/e-commerce-data-analysis/assets/54144923/8af030ed-61fb-4b09-bf6a-2eee2ef25c85)
