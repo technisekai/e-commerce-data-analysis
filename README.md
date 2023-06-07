@@ -1,6 +1,20 @@
 # E-Commerce Data Analysis Dicoding
 Submission for Beginner of Data Analysis Dicoding
 
+## Business Understanding
+
+Pertanyaan bisnis:
+1. Produk apa yang paling banyak dibeli oleh customer?
+2. Dalam rangka memberikan kupon diskon untuk customer dengan tujuan membuat customer nyaman dan merasa diperhatikan, customer seperti apa yang layak untuk mendapatkan kupon diskon tersebut?
+3. Berapa persen kepuasan pelanggan terhadap E-commerce yang dipakai?
+
+## Conclusion
+
+Dari hasil analisis yang dilakukan, dapat ditarik jawaban untuk menjawab pertanyaan pada business understanding adalah sebagai berikut:
+1. Customer paling banyak membeli produk dengan kategori: bed_bath_table, health_beauty, dan sports_leisure
+2. Dengan RFM analysis, customer dengan ID pada grafik recency dan monetary layak diberikan kupon karena jumlah transaksinya dan bertransaksi akhir-akhir ini.
+3. Dari keseluruhan transaksi, 75% customer merasa puas dengan pelayanan dari seller dan produk yang mereka beli.
+
 ## How To Use
 ```pip install -r requirements.txt```
 
